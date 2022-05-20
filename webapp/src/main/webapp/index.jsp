@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Welcome to CICD pipeline</h1>
+   <h1> Pipeline CICD PoC</h1>
 
   
 </form>
