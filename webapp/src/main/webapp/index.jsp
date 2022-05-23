@@ -1,3 +1,4 @@
+<h1> Welcome to CICD pipeline</h1>
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
@@ -30,9 +31,7 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
-
-   <h1> Welcome to CICD pipeline</h1>
-   <h1> copyright @deepesh_prajapati</h1>
+   <h2> copyright @deepesh_prajapati</h2>
 
   
 </form>
