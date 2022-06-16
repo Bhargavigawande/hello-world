@@ -31,7 +31,7 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
-   <h2> copyright @Astha_Gupta</h2>
+   <h2> copyright @Ankeeta</h2>
 
   
 </form>
