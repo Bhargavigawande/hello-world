@@ -31,7 +31,8 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
-   <h2> NI HAO!, Ankeeta</h2>
+   <h2> Welcome to BFSI </h2>
+  
 
   
 </form>
