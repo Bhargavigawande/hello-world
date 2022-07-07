@@ -31,7 +31,7 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
-   <h2> Testing kuber hold on jenkins </h2>
+   <h2> Testing kuber hold on jenkins, now started docker host</h2>
   
 
   
