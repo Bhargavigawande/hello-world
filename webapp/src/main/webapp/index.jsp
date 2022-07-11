@@ -1,6 +1,16 @@
 <h1>Welcome to CICD </h1>
+<head>
+<style> 
+.div2 {
+  width: 300px;
+  height: 100px;  
+  padding: 50px;
+  border: 1px solid red;
+}
+</style>
+</head>
 <form action="action_page.php">
-  <div class="container">
+  <div2 class="container" style='background-color: yellow;'>
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
@@ -27,12 +37,10 @@
     <br>
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
-  </div>
-  <div class="container signin">
+  </div2>
+  <div2 class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
-  </div>
-   <h2> Testing kuber hold on jenkins, now started docker host, docker service started, started docker service in ansible</h2>
-  <h1> DONE!!!!!!!2</h1>
+  </div2>
   
 
   
