@@ -1,25 +1,24 @@
-<h1>Welcome to CICD </h1>
+<h1 align="center">Welcome to CICD </h1>
 <head>
-<style> 
-.div2 {
-  width: 300px;
-  height: 100px;  
-  padding: 50px;
-  border: 1px solid red;
-}
-</style>
+<style>  
+  .container{  
+  text-align: center;  
+  
+  }  
+  </style>  
 </head>
 <form action="action_page.php">
-  <div2 class="container" style='background-color: yellow;'>
-    <h1>New user Register for DevOps Learning</h1>
+  <div class="container"  alignItems:'center'>
+    <body style='background-color: #87CEEB;'></body>
+    <h4 align="center">New user Register for DevOps Learning</h4>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
     <label for="Name"><b> Name</b></label>
-    <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
+    <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required style="float: center;">
     <br>
     
-    <label for="mobile"><b> mobile</b></label>
+    <label for="mobile"><b> Mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
@@ -36,11 +35,11 @@
     <hr>
     <br>
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
-    <button type="submit" class="registerbtn">Register</button>
-  </div2>
-  <div2 class="container signin">
+    <button type="submit" class="registerbtn" style="float: center;">Register</button>
+  </div>
+  <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
-  </div2>
+  </div>
   
 
   
